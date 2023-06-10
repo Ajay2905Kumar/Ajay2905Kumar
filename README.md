@@ -13,4 +13,14 @@
 
 <hr>
 
-[![Ajay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay2905Kumar)](https://github.com/Ajay2905Kumar/github-readme-stats)
+<h2>My Stats</h2>
+
+[![Ajay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay2905Kumar&show_icons=true&theme=radical)](https://github.com/Ajay2905Kumar/github-readme-stats)
+
+<hr>
+
+<h2>Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2905Kumar&layout=pie)](https://github.com/Ajay2905Kumar/github-readme-stats)
+
+<hr>
