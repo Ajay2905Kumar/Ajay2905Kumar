@@ -12,3 +12,5 @@
 💞 Passionate in Teaching
 
 <hr>
+
+[![Ajay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay2905Kumar)](https://github.com/Ajay2905Kumar/github-readme-stats)
