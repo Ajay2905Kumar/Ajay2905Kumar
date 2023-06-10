@@ -21,6 +21,6 @@
 
 <h2>Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2905Kumar&layout=pie)](https://github.com/Ajay2905Kumar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2905Kumar&layout=pie&theme=radical)](https://github.com/Ajay2905Kumar/github-readme-stats)
 
 <hr>
