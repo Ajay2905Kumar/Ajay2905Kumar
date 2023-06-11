@@ -5,11 +5,13 @@
 
 🔭 I'm currently working on **Front-end Web Development**
 
-🌱 In the process of learning **Back-end**
+🌱 In the process of learning **Back-end Development**
 
 🙋‍♂️ Looking to collorabate on **Web Development** projects
 
-💞 Passionate in Teaching
+🤩 Interested in **Data Science** and **Competitive Programming**
+
+💞 Passionate in __Teaching__
 
 <hr>
 
