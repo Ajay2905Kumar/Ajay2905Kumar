@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, This is Ajay Kumar </h1>
-<h3 align="center">A Front-end Web Developer</h3>
+<h3 align="center">Front-end Web Developer</h3>
 
 <hr>
 
