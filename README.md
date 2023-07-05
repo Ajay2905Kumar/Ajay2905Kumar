@@ -7,7 +7,7 @@
 
 🌱 In the process of learning **Back-end Development**
 
-🙋‍♂️ Looking to collorabate on **Web Development** projects
+👨‍🎓 Looking to collorabate on **Web Development** projects
 
 🤩 Interested in **Data Science** and **Competitive Programming**
 
